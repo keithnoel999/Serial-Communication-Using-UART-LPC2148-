@@ -1,8 +1,11 @@
 Serial Communication Using UART – LPC2148
 
 Overview:-
+
 1)This project demonstrates the implementation of UART (Universal Asynchronous Receiver Transmitter) serial communication using the LPC2148 ARM7TDMI-S microcontroller.
+
 2)The program is developed in Embedded C and configures UART0 of the LPC2148 to continuously transmit the message **"HELLO WORLD"** through the serial communication interface.
+
 3)The project focuses on register-level programming, UART peripheral configuration, baud rate setup, and serial data transmission in an ARM-based embedded system.
 
 
