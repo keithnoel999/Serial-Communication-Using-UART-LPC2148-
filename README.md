@@ -74,6 +74,13 @@ Algorithm
 
 ---
 
+## Conclusion
+
+UART0 of the LPC2148 microcontroller was configured for asynchronous serial communication. The program transmits the message "HELLO WORLD" character by character using the UART0 Transmit Holding Register.
+
+This project demonstrates practical knowledge of UART configuration, LPC2148 hardware registers, serial data transmission, and ARM-based embedded system programming.
+
+---
 ## Source Code
 
 ```c
@@ -109,4 +116,5 @@ loading and
   U0LCR = 0X00000003; 
   
 } 
+
  
